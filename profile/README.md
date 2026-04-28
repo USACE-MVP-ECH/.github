@@ -8,4 +8,4 @@ General Disclaimer This organization was created for use by USACE St. Paul Distr
 
 New Members Reach out to Lauren Allin or Mitch Weier to request access or new repositories.
 
-Organization Policies We don't have many rules, but we do have a few, those are documented in our policies repo and may change over time as the organization matures.
+Organization Policies We don't have many rules, but we do have a few, those are documented in our [policies repo](https://github.com/USACE-MVP-ECH/policies) and may change over time as the organization matures.

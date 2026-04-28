@@ -1,7 +1,3 @@
-# .github
-
-README.md
-
 The USACE MVP ECH Github org is unofficially associated with the USACE St. Paul District H&H branch and is managed by a group of volunteers.
 
 General Disclaimer This organization was created for use by USACE St. Paul District H&H branch to collaborate on projects in support of the USACE mission. GitHub is not hosted by USACE, but is a third party website used by USACE and its partners to share information and collaborate on software. USACE use of GitHub does not imply an endorsement of any one particular service, product, or enterprise.

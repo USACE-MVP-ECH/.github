@@ -9,3 +9,5 @@ The purpose of this organization is to house scripts that are useful to the USAC
 **Organization Policies** We don't have many rules, but we do have a few, those are documented in our [policies repo](https://github.com/USACE-MVP-ECH/policies) and may change over time as the organization matures.
 
 **Getting Started** Refer to the Getting Started repository (https://github.com/USACE-MVP-ECH/Getting-Started/tree/main) for information on getting started with Python, R, Visual Studio Code, and Git/GitHub. 
+
+**Sharing Data** The majority of the repos on this organization are private and require access permissions. That being said, do not publish CUI, PII, API Keys or any other sensitive data on GitHub. Like most online resources, it is very difficult to remove data once it has been posted to GitHub. 
